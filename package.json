@@ -1,0 +1,11 @@
+{
+  "name": "aircall-lead-distribution",
+  "version": "1.0.0",
+  "description": "Aircall supabase lead distribution integration database that powers true partner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
